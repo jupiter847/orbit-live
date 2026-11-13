@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/assets/roulette.svg" width="760" alt="ORBIT LIVE roulette illustration with chrome details and lilac studio lighting" />
+  <img src="preview.jpg" width="1100" alt="ORBIT LIVE desktop interface with its game lobby and original roulette artwork" />
 </p>
 
 # ORBIT LIVE
