@@ -4,15 +4,15 @@
 
 # ORBIT LIVE
 
-My mobile-first UI/UX concept for a premium casino lobby and practice roulette table.
+A mobile-first UI/UX concept for a premium casino lobby and practice roulette table.
 
-I built this interactive concept to explore how a game interface can feel expressive while keeping its controls clear. The journey moves from browsing tables to placing a practice bet and following a round, with a shared visual language across mobile, tablet, and desktop.
+This interactive concept explores how a game interface can feel expressive while keeping its controls clear. The journey moves from browsing tables to placing a practice bet and following a round, with a shared visual language across mobile, tablet, and desktop.
 
 [Explore the demo](https://jupiter847.github.io/orbit-live/) · [UI system](https://jupiter847.github.io/orbit-live/#components) · [Behind the design](https://jupiter847.github.io/orbit-live/#notes)
 
 ## The design challenge
 
-A casino lobby has a lot to communicate: game type, table limits, saved choices, and the next action. I wanted those details to be easy to compare without losing the atmosphere of the game.
+A casino lobby has a lot to communicate: game type, table limits, saved choices, and the next action. The design brings these details into a consistent hierarchy while preserving the atmosphere of the game.
 
 The lobby uses consistent cards, game filters, search, and a minimum-limit filter. The practice table puts the wheel, chip selection, total bet, and round state into a more focused layout.
 
@@ -61,7 +61,7 @@ npm run build
 The production files are written to `docs/` for GitHub Pages. The app uses relative asset paths so it can be hosted under the repository URL.
 
 
-## What I would explore next
+## Next steps
 
 - Test whether first-time players understand the controls and round states.
 - Review contrast, navigation, and text sizing on more devices and with a wider range of users.
